@@ -1,4 +1,4 @@
-# Bioinformatics in Action
+# Notes of Bioinformatics in Action  by Shisu Li 2023
 ## Plan
 ### 1.Learn to programme by Linux
 ### 2.Master the basic techniques of bioinformatics
